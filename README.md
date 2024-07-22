@@ -1,3 +1,3 @@
-## Aula 09 - Classes (exercícios II)
+## Aula 09 - Exercício Music Player
 
-Código para um reprodutor de músicas (simulador).
+Solução do exercício proposto durante a aula 09. Veja o enunciado no Moodle.
